@@ -1,5 +1,5 @@
 <?php
 
-echo "Hello World!";
+header ("Location: /market.php");
 
 ?>
